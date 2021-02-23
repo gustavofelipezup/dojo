@@ -1,0 +1,1 @@
+INSERT INTO PAIS(id, nome) VALUES (1, 'Brasil');
